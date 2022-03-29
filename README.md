@@ -9,4 +9,4 @@
 
 Посилання на AR-інформаційну основу (підкладинку) буклету - https://daniil-pogorelov.github.io/ar-lab/
 
-![Pogorielov Daniil AI-216](https://user-images.githubusercontent.com/35654488/160078849-c942466f-e477-4691-b4ef-d3e10e302b69.png)
+![Pogorielov Daniil AI-216](https://user-images.githubusercontent.com/35654488/160648185-9c85409a-a71b-457c-934c-7ef16b58c35b.png)
