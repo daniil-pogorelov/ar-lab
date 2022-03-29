@@ -8,5 +8,3 @@
 Містить 3 маркери.
 
 Посилання на AR-інформаційну основу (підкладинку) буклету - https://daniil-pogorelov.github.io/ar-lab/
-
-![Pogorielov Daniil AI-216](https://user-images.githubusercontent.com/35654488/160648185-9c85409a-a71b-457c-934c-7ef16b58c35b.png)
