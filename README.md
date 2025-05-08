@@ -20,3 +20,6 @@ Contains 3 markers.
 
 Link to the AR information base (substrate) of the booklet - https://daniil-pogorelov.github.io/ar-lab/
 
+# Demo & Test
+
+![Demonstration img](https://raw.githubusercontent.com/daniil-pogorelov/ar-lab/refs/heads/main/Pogorielov%20Daniil%20AI-216.png)
